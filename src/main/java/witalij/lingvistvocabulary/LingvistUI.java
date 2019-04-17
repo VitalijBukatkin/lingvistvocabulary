@@ -22,7 +22,7 @@ public class LingvistUI extends JFrame {
     }
 
     private LingvistUI() throws HeadlessException {
-        super("Linguist Parser");
+        super("Lingvist Vocabulary");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
