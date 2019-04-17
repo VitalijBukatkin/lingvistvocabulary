@@ -1,3 +1,5 @@
+package witalij.lingvistvocabulary;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
