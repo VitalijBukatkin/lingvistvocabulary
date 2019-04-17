@@ -2,7 +2,7 @@
 
 2019 Bukatkin Witalij
 
-Using org.json 20180813
+Used org.json-20180813
 
 ## Using:
 1. Download this [application](https://github.com/WitalijBukatkin/lingvistvocabulary/releases)
