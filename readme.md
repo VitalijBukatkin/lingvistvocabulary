@@ -10,4 +10,4 @@ Using org.json 20180813
 3. Choose "Profile" and click to "Download your data"
 4. Open your mail, download and unzip archive
 5. Launch application and choose unzipped directory
-6. Ok!
+6. All!
