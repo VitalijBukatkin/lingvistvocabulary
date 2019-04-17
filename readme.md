@@ -11,3 +11,6 @@ Used org.json-20180813
 4. Open your mail, download and unzip archive
 5. Launch application and choose unzipped directory
 6. All!
+
+## Screenshots
+<img width="512" alt="Screenshot 2019-04-17 at 23 45 39" src="https://user-images.githubusercontent.com/32595013/56319658-f8cb2000-616a-11e9-9e82-b721b07936e3.png">
