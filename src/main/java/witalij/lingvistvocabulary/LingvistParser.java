@@ -45,8 +45,10 @@ public class LingvistParser {
                     JSONObject jsonObject = (JSONObject) item;
                     JSONObject event = jsonObject.getJSONObject("event");
                     JSONObject data = event.getJSONObject("data");
-                    String answer = data.getString("answer");
-                    words.add(answer);
+                    JSONObject evaluation_criteria = data.getJSONObject("evaluation_criteria");
+                    JSONObject interpreted_criteria = evaluation_criteria.getJSONObject("interpreted_criteria");
+                    String correct_answer = interpreted_criteria.getString("correct_answer");
+                    words.add(correct_answer);
                 } catch (Exception ignored) {
                 }
             }
