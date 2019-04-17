@@ -70,11 +70,18 @@ public class LingvistUI extends JFrame {
                 if(duplicates.isSelected()) {
                     removeDuplicates();
                 }
+                toLowerCase();
                 words.setListData(data);
             } catch (RuntimeException e) {
                 JOptionPane.showMessageDialog(this, "Can't load!");
                 e.printStackTrace();
             }
+        }
+    }
+
+    private void toLowerCase(){
+        for (int i = 0; i < data.size(); i++) {
+            data.set(i, data.get(i).toLowerCase());
         }
     }
 
