@@ -1,10 +1,10 @@
-#Lingvist
+# Lingvist
 
 2019 Bukatkin Witalij
 
 Using org.json 20180813
 
-##Using:
+## Using:
 1. Download this application
 2. Go to [lingvist.com](https://learn.lingvist.com/#account?)
 3. Choose "Profile" and click to "Download your data"
