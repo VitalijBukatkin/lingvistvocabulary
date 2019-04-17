@@ -1,4 +1,4 @@
-# Lingvist
+# Lingvist Vocabulary
 
 2019 Bukatkin Witalij
 
