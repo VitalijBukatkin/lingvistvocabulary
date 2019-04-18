@@ -4,7 +4,7 @@
 
 Used org.json-20180813
 
-## Using:
+## Steps
 1. Download this [application](https://github.com/WitalijBukatkin/lingvistvocabulary/releases)
 2. Go to [lingvist.com](https://learn.lingvist.com/#account?)
 3. Choose "Profile" and click to "Download your data"
